@@ -1,10 +1,6 @@
 .qui-header{
-    position: relative;
-<<<<<<< HEAD
-    padding-left: 15%;
-
-
->>>>>>> ce55081a53fa555555ee9b7f4982f10908e6229f
+    position: fixed;
+    padding-left: 20%;
     top: 20px;
     bottom: 0;
     background-color: white;
@@ -32,9 +28,17 @@ transition: all 0.4s;
     float: left;
     margin-top: -15px;
 }
-body1{
+.qui-footer{
+    position: fixed;
+    bottom: 0;
+    left:45%;
+}
+.qui-footer span{
+    padding: 20px;
+}
 
-
-
-
+.qui-footer a{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
 }
