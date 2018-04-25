@@ -1,6 +1,10 @@
 .qui-header{
     position: relative;
+<<<<<<< HEAD
     padding-left: 20%;
+=======
+    padding-left: 15%;
+>>>>>>> ce55081a53fa555555ee9b7f4982f10908e6229f
     top: 20px;
     bottom: 0;
     background-color: white;
