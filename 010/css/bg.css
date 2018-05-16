@@ -1,0 +1,214 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+header{
+    padding-bottom: 50px;
+}
+li{
+    background:white;
+    overflow: hidden;
+    white-space:nowrap;
+    font-size: 15px;
+    width: 100%;
+    height: 30px;
+
+}
+li:nth-of-type(2n){
+    background: #eeeeee;
+
+}
+li a:hover{
+color: #2bab99;
+    transition: all 0.5s;
+}
+#bg{
+    background-image:url("../imgs/bg1.jpg") ;
+    text-align: center;
+}
+.cover{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.p1{
+    font-size: 40px;
+}
+.p2{
+    font-size: 20px;
+}
+.border{
+    width: 50px;
+    height:50px;
+    margin: 50px auto;
+    background-color: #2bab99;
+    border-radius: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+.border:hover{
+    top: -5px;
+    box-shadow: 0 0 15px white;
+    transition: all .4s;
+}
+.tub{
+    padding-top: 8px;
+    color: white;
+}
+.qui-footer {
+    position: fixed;
+    bottom: 0;
+    left:44%;
+}
+.qui-footer a{
+    text-decoration: none;
+    color:white;
+}
+.qui-header{
+    position: relative;
+    padding-left: 15%;
+    top: 20px;
+    bottom: 0;
+    background-color: white;
+}
+.qui-header a {
+    text-decoration: none;
+    color: black;
+    padding: 0px 20px 0px;
+}
+.qui-header a span{
+    font-size: 20px;
+}
+.qui-header a:hover {
+    color: #2bab99;
+    transition: all 0.4s;
+
+}
+.qui-page{
+    width:100%;
+
+}
+#img{
+    display: block;
+    float: left;
+    margin-top: -15px;
+}
+.qui-lost-marquee{
+    display: block;
+    align-content: center;
+    border: black 1px solid;
+    width: 60%;
+    height: 150px;
+
+}
+.qui-list{
+    display: block;
+    float: right;
+    margin-right: 20%;
+    width: 20%;
+    border: 1px black solid;
+}
+.qui-list span{
+    background-color:#2bab99;
+    color: white;
+
+}
+.qui-list span a{
+    text-decoration: none;
+    color: black;
+    font-size:10px;
+    padding-left: 71%;
+}
+.qui-list1{
+    display: block;
+    float: right;
+    width: 20%;
+    border: 1px black solid;
+
+}
+.qui-list1 span{
+    background-color:#2bab99;
+    color: white;}
+
+.qui-list1 span a{
+    text-decoration: none;
+    color: black;
+    font-size:10px;
+    padding-left: 71%;
+}
+.qui-list1 a{
+    text-decoration: none;
+    color: black;
+
+
+}
+
+
+.qui-list a{
+text-decoration: none;
+color: seagreen;
+
+
+}
+.qui-nav1{
+    font-size:20px;
+    color: white;
+    border: 1px black solid;
+    background-color: #2bab99;
+}
+.qui-end1{
+display: block;
+    float: right;
+border: 1px black solid;
+width: 19.7%;
+    height: 150px;
+overflow-y: scroll;
+
+}
+
+.qui-pic2{
+    border: 1px black solid;
+    width: 60%;
+    align-content:center;
+
+
+}
+.qui-title1{
+    display: block;
+    float:left;
+    align-items: center;
+    border: 1px black solid;
+width: 100%;
+font-size: 30px;
+
+}
+.qui-title1 a{
+    text-decoration: none;
+    font-family: "Californian FB";
+    color: black;
+
+}
+.qui-title1 a:hover{
+    color: #2bab99;
+    transition: all 0.5s;
+
+
+}
+.up-mar{
+    width: 200px;
+    height: 430px;
+border: black 1px solid;
+align-content: left;
+overflow: hidden;
+
+}
+.up-mar a{
+
+
+    color: black;
+}
+
