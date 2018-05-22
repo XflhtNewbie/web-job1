@@ -121,7 +121,7 @@ color: #2bab99;
     text-decoration: none;
     color: black;
     font-size:10px;
-    padding-left: 71%;
+    padding-left: 68.85%;
 }
 .qui-list1{
     display: block;
@@ -138,7 +138,7 @@ color: #2bab99;
     text-decoration: none;
     color: black;
     font-size:10px;
-    padding-left: 71%;
+    padding-left: 68.85%;
 }
 .qui-list1 a{
     text-decoration: none;
@@ -161,6 +161,7 @@ color: seagreen;
     background-color: #2bab99;
 }
 .qui-end1{
+
 display: block;
     float: right;
 border: 1px black solid;
@@ -199,6 +200,7 @@ font-size: 30px;
 
 }
 .up-mar{
+    position: fixed;
     width: 200px;
     height: 430px;
 border: black 1px solid;
